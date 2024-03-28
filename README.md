@@ -16,6 +16,17 @@ Welcome to the Work Hire Marketplace! A dynamic web-based platform connecting fr
 - **Feedback System** 👍: Exchange reviews upon project completion to build your reputation.
 - **Intuitive UI** 🖌️: A user-friendly interface ensuring smooth navigation and interaction.
 
+## 🌐 Key Features
+
+🔮 **Smart Recommendation System:** 
+Leap into a personalized job-matching experience with our intelligent recommendation engine. It aligns with your skills, profile intricacies, and even your search patterns, curating a list of opportunities that feel custom-made, just for you!
+
+🏅 **Dynamic Rating Mechanism:** 
+Engage and rise through the ranks in our interactive forums. Your contributions are marked by the community's applause - or their critiques. Grow your reputation with every like and build a portfolio that stands out, all powered by a transparent and fair rating system.
+
+🤖 **Real-Time Human Verification:** 
+Wave goodbye to bots! Our live verification captures your essence in a snap at registration. This nifty feature ensures that every account is as real as the work offered, crafting a marketplace brimming with trust and authenticity.
+
 ## Technologies Used 🛠️
 
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap
