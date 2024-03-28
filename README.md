@@ -1,6 +1,6 @@
 ---
 
-# Work Hire Marketplace 🌍
+# Work Hire Marketplace ![logo](https://github.com/NimilRl/Work-Hire-Marketplace/assets/90232167/4955e803-f481-4805-b3d8-15b875b6198a)
 
 ## Introduction 🚀
 
@@ -57,7 +57,6 @@ Welcome to the Work Hire Marketplace! A dynamic web-based platform connecting fr
 
 Citing this platform 🏆:
 
-![logo](https://github.com/NimilRl/Work-Hire-Marketplace/assets/90232167/4955e803-f481-4805-b3d8-15b875b6198a)
 
 ```
 Hardik, Vruti, Nimil, Jeel. (2022). Work Hire Marketplace. A dynamic platform connecting freelancers and employers.
