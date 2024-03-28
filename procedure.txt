@@ -1,0 +1,20 @@
+BEGIN
+	IF (Num = 1) THEN
+        select user_id, user_type from dt_user where user_email = email and user_password = pass;
+    END IF;
+    IF (Num = 2) THEN
+        SELECT * FROM dt_user WHERE google_id = g_Id or user_email = email;
+    END IF;
+END
+
+---
+---
+
+BEGIN
+	IF (Num = 1) THEN
+        INSERT INTO `dt_user`( `user_name`, `user_email`, `user_password`, `user_type`) VALUES (full_name,email,pass,type);
+    END IF;
+    IF (Num = 2) THEN
+        INSERT INTO dt_user(google_id, user_name, user_email) VALUES(g_id,full_name,email);
+    END IF;
+END
