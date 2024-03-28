@@ -67,10 +67,7 @@ Hardik, Vruti, Nimil, Jeel. (2022). Work Hire Marketplace. A dynamic platform co
 ### Collaborations 🤝
 Special thanks to our mentors, [Ms. Jenisha Tailor](https://www.linkedin.com/in/jenisha-afinwala-61783819/), and the faculty of B.V. Patel Institute of Computer Science for their invaluable guidance.  
 Also, a shoutout to my co-worker   
-[Hardik Akbari](https://www.linkedin.com/in/hardik-akbari-237a81224/),   
-[Vruti Dhameliya](https://www.linkedin.com/in/vruti-dhameliya-122358230/),   
-[Jeel Goyani](https://www.linkedin.com/in/jeel-goyani/) and   
-[me😁](www.linkedin.com/in/nimil-lathiya-059a281b1)  
+[Hardik Akbari](https://www.linkedin.com/in/hardik-akbari-237a81224/), [Vruti Dhameliya](https://www.linkedin.com/in/vruti-dhameliya-122358230/), [Jeel Goyani](https://www.linkedin.com/in/jeel-goyani/) and [me😁](www.linkedin.com/in/nimil-lathiya-059a281b1)  
 for their significant contributions to this project. Your insights and collaboration have been pivotal! Also thanks to the online html template sources.
 
 Kudos to the Uka Tarsadia University, Bardoli, Gujarat for their support.
