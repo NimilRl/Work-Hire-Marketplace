@@ -73,7 +73,7 @@ Citing this platform 🏆:
 Hardik, Vruti, Nimil, Jeel. (2022). Work Hire Marketplace. A dynamic platform connecting freelancers and employers.
 ```
 
-
+---
 ### Collaborations 🤝
 Special thanks to our mentors, [Ms. Jenisha Tailor](https://www.linkedin.com/in/jenisha-afinwala-61783819/), and the faculty of B.V. Patel Institute of Computer Science for their invaluable guidance. Also, a shoutout to my co-worker   
 [Hardik Akbari](https://www.linkedin.com/in/hardik-akbari-237a81224/), [Vruti Dhameliya](https://www.linkedin.com/in/vruti-dhameliya-122358230/), [Jeel Goyani](https://www.linkedin.com/in/jeel-goyani/) and [me😁](www.linkedin.com/in/nimil-lathiya-059a281b1)  
@@ -81,7 +81,7 @@ for their significant contributions to this project. Your insights and collabora
 
 Kudos to the Uka Tarsadia University, Bardoli, Gujarat for their support.
 
-###
+##
 
 Join the Work Hire Marketplace adventure! 🌟 A collective masterpiece crafted by students, faculty, and tech enthusiasts. We're inviting developers, employers, and freelancers to enrich Work Hire Marketplace, making it a vibrant hub for professional connections. 🚀💼
 
