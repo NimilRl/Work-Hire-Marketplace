@@ -1,6 +1,10 @@
 ---
 
-# Work Hire Marketplace ![logo](https://github.com/NimilRl/Work-Hire-Marketplace/assets/90232167/4955e803-f481-4805-b3d8-15b875b6198a)
+ ![logo](https://github.com/NimilRl/Work-Hire-Marketplace/assets/90232167/4955e803-f481-4805-b3d8-15b875b6198a)
+
+# Work Hire Marketplace
+
+[workflow.webm](https://github.com/NimilRl/Work-Hire-Marketplace/assets/90232167/ce5ba9a5-2f0f-4534-b2f2-26dc1d8ebf51)
 
 ## Introduction 🚀
 
